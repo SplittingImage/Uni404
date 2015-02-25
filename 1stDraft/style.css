@@ -1,14 +1,16 @@
 body {
   font-family: Lato, sans-serif;
-  font-size: 40pt;
+  font-size: 28pt;
   line-height: 1;
   color: white;
   background-image: url("El-Chavo-01.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100%;
+  background-size: 80%;
+  background-position: center;
   position: center;
-  text-align: center; 
+  text-align: center;
+  text-shadow: 2px 2px #000000; 
   margin: auto;
  }
 
